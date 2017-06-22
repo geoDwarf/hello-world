@@ -1,4 +1,4 @@
 # hello-world
-let's  it started
+let's get it started
 - Prima prova git
 prova di test
